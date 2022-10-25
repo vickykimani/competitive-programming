@@ -1,6 +1,6 @@
 // Function Description
 
-// Complete the insertionSort1 function in the editor below.
+// Complete the insertionSort1 function
 
 // insertionSort1 has the following parameter(s):
 
@@ -13,8 +13,6 @@
 
 // The first line contains the integer , the size of the array .
 // The next line contains  space-separated integers .
-
-// Constraints
 
 // Output Format
 
