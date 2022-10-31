@@ -1,2 +1,2 @@
 # competitive-programming
-c++ code solutions
+practice code solutions
