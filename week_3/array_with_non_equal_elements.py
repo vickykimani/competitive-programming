@@ -1,7 +1,7 @@
 # we must switch the three successive items in order to prevent any ascending or descending patterns.
 # get the 3 elements (prev, cur, nxt)
 # if these three are in ascending or descending order i,e. prev < cur < nxt or prev > cur > nxt then swap the cur and nxt elements
-# repeat this for entire array
+# repeat this for entire array.
 
 
 class Solution(object):
